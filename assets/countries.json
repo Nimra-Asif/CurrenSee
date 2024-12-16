@@ -1,0 +1,747 @@
+[
+    {
+        "code": "AED",
+        "country": "United Arab Emirates Dirham",
+        "flag": "assets/flags/united-arab-emirates.png"
+    },
+    {
+        "code": "AFN",
+        "country": "Afghanistan",
+        "flag": "assets/flags/Afghanistan.png"
+    },
+    {
+        "code": "ALL",
+        "country": "Albanian Lek",
+        "flag": "assets/flags/Albania.png"
+    },
+    {
+        "code": "AMD",
+        "country": "Armenian Dram",
+        "flag": "assets/flags/Armenia.png"
+    },
+    {
+        "code": "AOA",
+        "country": "Angolan Kwanza",
+        "flag": "assets/flags/Angola.png"
+    },
+    {
+        "code": "ARS",
+        "country": "Argentine Peso",
+        "flag": "assets/flags/Argentina.png"
+    },
+    {
+        "code": "AUD",
+        "country": "Australian Dollar",
+        "flag": "assets/flags/Australian.png"
+    },
+    {
+        "code": "AWG",
+        "country": "Aruban Florin",
+        "flag": "assets/flags/Aruba.png"
+    },
+    {
+        "code": "AZN",
+        "country": "Azerbaijani Manat",
+        "flag": "assets/flags/Azerbaijan.png"
+    },
+    {
+        "code": "BAM",
+        "country": "Bosnia-Herzegovina Convertible Mark",
+        "flag": "assets/flags/bosnia-and-herzegovina.png"
+    },
+    {
+        "code": "BBD",
+        "country": "Barbadian Dollar",
+        "flag": "assets/flags/Barbados.png"
+    },
+    {
+        "code": "BDT",
+        "country": "Bangladeshi Taka",
+        "flag": "assets/flags/Bangladesh.png"
+    },
+    {
+        "code": "BGN",
+        "country": "Bulgarian Lev",
+        "flag": "assets/flags/Bulgaria.png"
+    },
+    {
+        "code": "BHD",
+        "country": "Bahraini Dinar",
+        "flag": "assets/flags/Bahraini.png"
+    },
+    {
+        "code": "BIF",
+        "country": "Burundian Franc",
+        "flag": "assets/flags/Burundi.png"
+    },
+    {
+        "code": "BMD",
+        "country": "Bermudan Dollar",
+        "flag": "assets/flags/Bermuda.png"
+    },
+    {
+        "code": "BND",
+        "country": "Brunei Dollar",
+        "flag": "assets/flags/Brunei.png"
+    },
+    {
+        "code": "BOB",
+        "country": "Bolivian Boliviano",
+        "flag": "assets/flags/Bolivia.png"
+    },
+    {
+        "code": "BRL",
+        "country": "Brazilian Real",
+        "flag": "assets/flags/Brazil.png"
+    },
+    {
+        "code": "BSD",
+        "country": "Bahamian Dollar",
+        "flag": "assets/flags/Bahamas.png"
+    },
+    {
+        "code": "BTC",
+        "country": "Bitcoin",
+        "flag": "assets/flags/bitcoin.png"
+    },
+    {
+        "code": "BTN",
+        "country": "Bhutanese Ngultrum",
+        "flag": "assets/flags/Bhutan.png"
+    },
+    {
+        "code": "BWP",
+        "country": "Botswanan Pula",
+        "flag": "assets/flags/Botswana.png"
+    },
+    {
+        "code": "BYN",
+        "country": "Belarusian Ruble",
+        "flag": "assets/flags/Belarus.png"
+    },
+    {
+        "code": "BZD",
+        "country": "Belize Dollar",
+        "flag": "assets/flags/Belize.png"
+    },
+    {
+        "code": "CAD",
+        "country": "Canadian Dollar",
+        "flag": "assets/flags/Canada.png"
+    },
+    {
+        "code": "CDF",
+        "country": "Congolese Franc",
+        "flag": "assets/flags/Congo.png"
+    },
+    {
+        "code": "CHF",
+        "country": "Swiss Franc",
+        "flag": "assets/flags/SwissFranc.png"
+    },
+    {
+        "code": "CLP",
+        "country": "Chilean Peso",
+        "flag": "assets/flags/Chile.png"
+    },
+    {
+        "code": "CNH",
+        "country": "Chinese Yuan",
+        "flag": "assets/flags/China.png"
+    },
+    {
+        "code": "COP",
+        "country": "Colombian Peso",
+        "flag": "assets/flags/Colombia.png"
+    },
+    {
+        "code": "CRC",
+        "country": "Costa Rican Col\u00f3n",
+        "flag": "assets/flags/CostaRica.png"
+    },
+    {
+        "code": "CUC",
+        "country": "Cuban Convertible Peso",
+        "flag": "assets/flags/Cuba.png"
+    },
+    {
+        "code": "CUP",
+        "country": "Cuban Peso",
+        "flag": "assets/flags/cuba.png"
+    },
+    {
+        "code": "CVE",
+        "country": "Cape Verdean Escudo",
+        "flag": "assets/flags/CapeVerde.png"
+    },
+    {
+        "code": "CZK",
+        "country": "Czech Republic Koruna",
+        "flag": "assets/flags/Czechia.png"
+    },
+    {
+        "code": "DJF",
+        "country": "Djiboutian Franc",
+        "flag": "assets/flags/Djibouti.png"
+      },
+      {
+        "code": "DKK",
+        "country": "Danish Krone",
+        "flag": "assets/flags/Denmark.png"
+      },
+      {
+        "code": "DOP",
+        "country": "Dominican Peso",
+        "flag": "assets/flags/Dominican.png"
+      },
+      {
+        "code": "DZD",
+        "country": "Algerian Dinar",
+        "flag": "assets/flags/Algeria.png"
+      },
+      {
+        "code": "EGP",
+        "country": "Egyptian Pound",
+        "flag": "assets/flags/Egypt.png"
+      },
+      {
+        "code": "ETB",
+        "country": "Ethiopian Birr",
+        "flag": "assets/flags/Ethiopia.png"
+      },
+      {
+        "code": "EUR",
+        "country": "Euro",
+        "flag": "assets/flags/EuropeanUnion.png"
+      },
+      {
+        "code": "FJD",
+        "country": "Fijian Dollar",
+        "flag": "assets/flags/Fiji.png"
+      },
+      {
+        "code": "FKP",
+        "country": "Falkland Islands Pound",
+        "flag": "assets/flags/falklandislands.png"
+      },
+      {
+        "code": "GBP",
+        "country": "British Pound Sterling",
+        "flag": "assets/flags/United-kingdom.png"
+      },
+      {
+        "code": "GEL",
+        "country": "Georgian Lari",
+        "flag": "assets/flags/Georgia.png"
+      },
+      {
+        "code": "GHS",
+        "country": "Ghanaian Cedi",
+        "flag": "assets/flags/Ghana.png"
+      },
+      {
+        "code": "GIP",
+        "country": "Gibraltar Pound",
+        "flag": "assets/flags/Gibraltar.png"
+      },
+      {
+        "code": "GMD",
+        "country": "Gambian Dalasi",
+        "flag": "assets/flags/Gambia.png"
+      },
+      {
+        "code": "GNF",
+        "country": "Guinean Franc",
+        "flag": "assets/flags/GuineanFranc.png"
+      },
+      {
+        "code": "GTQ",
+        "country": "Guatemalan Quetzal",
+        "flag": "assets/flags/Guatemala.png"
+      },
+      {
+        "code": "GYD",
+        "country": "Guyanaese Dollar",
+        "flag": "assets/flags/Guyana.png"
+      },
+      {
+        "code": "HKD",
+        "country": "Hong Kong Dollar",
+        "flag": "assets/flags/hong-kong.png"
+      },
+      {
+        "code": "HNL",
+        "country": "Honduran Lempira",
+        "flag": "assets/flags/Honduras.png"
+      },
+      {
+        "code": "HRK",
+        "country": "Croatian Kuna",
+        "flag": "assets/flags/Croatia.png"
+      },
+      {
+        "code": "HTG",
+        "country": "Haitian Gourde",
+        "flag": "assets/flags/Haiti.png"
+      },
+      {
+        "code": "HUF",
+        "country": "Hungarian Forint",
+        "flag": "assets/flags/Hungary.png"
+      },
+      {
+        "code": "IDR",
+        "country": "Indonesian Rupiah",
+        "flag": "assets/flags/Indonesia.png"
+      },
+      {
+        "code": "ILS",
+        "country": "Israeli New Sheqel",
+        "flag": "assets/flags/Israel.png"
+      },
+      {
+        "code": "IMP",
+        "country": "Manx Pound",
+        "flag": "assets/flags/isle-of-man.png"
+      },
+      {
+        "code": "INR",
+        "country": "Indian Rupee",
+        "flag": "assets/flags/India.png"
+      },
+      {
+        "code": "IQD",
+        "country": "Iraqi Dinar",
+        "flag": "assets/flags/Iraq.png"
+      },
+      {
+        "code": "IRR",
+        "country": "Iranian Rial",
+        "flag": "assets/flags/Iran.png"
+      },
+      {
+        "code": "ISK",
+        "country": "Icelandic Króna",
+        "flag": "assets/flags/Iceland.png"
+      },
+      {
+        "code": "JMD",
+        "country": "Jamaican Dollar",
+        "flag": "assets/flags/Jamaica.png"
+      },
+      {
+        "code": "JOD",
+        "country": "Jordanian Dinar",
+        "flag": "assets/flags/Jordan.png"
+      },
+      {
+        "code": "JPY",
+        "country": "Japanese Yen",
+        "flag": "assets/flags/Japan.png"
+      },
+      {
+        "code": "KES",
+        "country": "Kenyan Shilling",
+        "flag": "assets/flags/Kenya.png"
+      },
+      {
+        "code": "KGS",
+        "country": "Kyrgystani Som",
+        "flag": "assets/flags/Kyrgyzstan.png"
+      },
+      {
+        "code": "KHR",
+        "country": "Cambodian Riel",
+        "flag": "assets/flags/Cambodia.png"
+      },
+      {
+        "code": "KPW",
+        "country": "North Korean Won",
+        "flag": "assets/flags/north-korea.png"
+      },
+      {
+        "code": "KRW",
+        "country": "South Korean Won",
+        "flag": "assets/flags/south-korea.jpg"
+      },
+      {
+        "code": "KWD",
+        "country": "Kuwaiti Dinar",
+        "flag": "assets/flags/Kuwait.png"
+      },
+      {
+        "code": "KZT",
+        "country": "Kazakhstani Tenge",
+        "flag": "assets/flags/Kazakhstan.png"
+      },
+      {
+        "code": "LAK",
+        "country": "Laotian Kip",
+        "flag": "assets/flags/Laos.png"
+      },
+      {
+        "code": "LBP",
+        "country": "Lebanese Pound",
+        "flag": "assets/flags/Lebanon.png"
+      },
+      {
+        "code": "LKR",
+        "country": "Sri Lankan Rupee",
+        "flag": "assets/flags/sri-lanka.png"
+      },
+      {
+        "code": "LRD",
+        "country": "Liberian Dollar",
+        "flag": "assets/flags/Liberia.png"
+      },
+      {
+        "code": "LSL",
+        "country": "Lesotho Loti",
+        "flag": "assets/flags/lesotho.png"
+      },
+      {
+        "code": "LYD",
+        "country": "Libyan Dinar",
+        "flag": "assets/flags/Libya.png"
+      },
+      {
+        "code": "MAD",
+        "country": "Moroccan Dirham",
+        "flag": "assets/flags/Morocco.png"
+      },
+      {
+        "code": "MDL",
+        "country": "Moldovan Leu",
+        "flag": "assets/flags/Moldova.png"
+      },
+      {
+        "code": "MGA",
+        "country": "Malagasy Ariary",
+        "flag": "assets/flags/Madagascar.png"
+      },
+      {
+        "code": "MKD",
+        "country": "Macedonian Denar",
+        "flag": "assets/flags/north-macedonia.png"
+      },
+      {
+        "code": "MMK",
+        "country": "Myanma Kyat",
+        "flag": "assets/flags/mayanmar.png"
+      },
+      {
+        "code": "MNT",
+        "country": "Mongolian Tugrik",
+        "flag": "assets/flags/mongolia.png"
+      },
+      {
+        "code": "MOP",
+        "country": "Macanese Pataca",
+        "flag": "assets/flags/macao.png"
+      },
+      {
+        "code": "MRU",
+        "country": "Mauritanian Ouguiya",
+        "flag": "assets/flags/mauritania.png"
+      },
+      {
+        "code": "MVR",
+        "country": "Maldivian Rufiyaa",
+        "flag": "assets/flags/Maldives.png"
+      },
+      {
+        "code": "MWK",
+        "country": "Malawian Kwacha",
+        "flag": "assets/flags/Malawi.png"
+      },
+      {
+        "code": "MXN",
+        "country": "Mexican Peso",
+        "flag": "assets/flags/Mexico.png"
+      },
+      {
+        "code": "MYR",
+        "country": "Malaysian Ringgit",
+        "flag": "assets/flags/Malaysia.png"
+      },
+      {
+        "code": "MZN",
+        "country": "Mozambican Metical",
+        "flag": "assets/flags/Mozambique.png"
+      },
+      {
+        "code": "NAD",
+        "country": "Namibian Dollar",
+        "flag": "assets/flags/Namibia.jpg"
+      },
+      {
+        "code": "NGN",
+        "country": "Nigerian Naira",
+        "flag": "assets/flags/nigeria.png"
+      },
+      {
+        "code": "NIO",
+        "country": "Nicaraguan Córdoba",
+        "flag": "assets/flags/Nicaragua.png"
+      },
+      {
+        "code": "NOK",
+        "country": "Norwegian Krone",
+        "flag": "assets/flags/Norway.png"
+      },
+      {
+        "code": "NPR",
+        "country": "Nepalese Rupee",
+        "flag": "assets/flags/Nepal.jpg"
+      },
+      {
+        "code": "NZD",
+        "country": "New Zealand Dollar",
+        "flag": "assets/flags/new-zealand.png"
+      },
+      {
+        "code": "OMR",
+        "country": "Omani Rial",
+        "flag": "assets/flags/Oman.png"
+      },
+      {
+        "code": "PAB",
+        "country": "Panamanian Balboa",
+        "flag": "assets/flags/Panama.png"
+      },
+      {
+        "code": "PEN",
+        "country": "Peruvian Nuevo Sol",
+        "flag": "assets/flags/Peru.png"
+      },
+      {
+        "code": "PHP",
+        "country": "Philippine Peso",
+        "flag": "assets/flags/Philippines.png"
+      },
+      {
+        "code": "PKR",
+        "country": "Pakistani Rupee",
+        "flag": "assets/flags/pakistan-flag.png"
+      },
+      {
+        "code": "PLN",
+        "country": "Polish Zloty",
+        "flag": "assets/flags/Poland.png"
+      },
+      {
+        "code": "PYG",
+        "country": "Paraguayan Guarani",
+        "flag": "assets/flags/Paraguay.png"
+      },
+      {
+        "code": "QAR",
+        "country": "Qatari Rial",
+        "flag": "assets/flags/Qatar.png"
+      },
+      {
+        "code": "RON",
+        "country": "Romanian Leu",
+        "flag": "assets/flags/Romania.png"
+      },
+      {
+        "code": "RSD",
+        "country": "Serbian Dinar",
+        "flag": "assets/flags/Serbia.png"
+      },
+      {
+        "code": "RUB",
+        "country": "Russian Ruble",
+        "flag": "assets/flags/Russia.png"
+      },
+      {
+        "code": "RWF",
+        "country": "Rwandan Franc",
+        "flag": "assets/flags/Rwanda.png"
+      },
+      {
+        "code": "SAR",
+        "country": "Saudi Riyal",
+        "flag": "assets/flags/saudi-arabia.png"
+      },
+      {
+        "code": "SBD",
+        "country": "Solomon Islands Dollar",
+        "flag": "assets/flags/solomon-islands.png"
+      },
+      {
+        "code": "SCR",
+        "country": "Seychellois Rupee",
+        "flag": "assets/flags/Seychelles.jpg"
+      },
+      {
+        "code": "SEK",
+        "country": "Swedish Krona",
+        "flag": "assets/flags/Sweden.png"
+      },
+      {
+        "code": "SGD",
+        "country": "Singapore Dollar",
+        "flag": "assets/flags/Singapore.png"
+      },
+      {
+        "code": "SHP",
+        "country": "Saint Helena Pound",
+        "flag": "assets/flags/saint-helena.png"
+      },
+      {
+        "code": "SLL",
+        "country": "Sierra Leonean Leone",
+        "flag": "assets/flags/sierra-leone.png"
+      },
+      {
+        "code": "SOS",
+        "country": "Somali Shilling",
+        "flag": "assets/flags/Somalia.png"
+      },
+      {
+        "code": "STD",
+        "country": "São Tomé",
+        "flag": "assets/flags/sao-tome.png"
+      },
+      {
+        "code": "SYP",
+        "country": "Syrian Pound",
+        "flag": "assets/flags/Syria.jpg"
+      },
+      {
+        "code": "SZL",
+        "country": "Swazi Lilangeni",
+        "flag": "assets/flags/Eswatini.png"
+      },
+      {
+        "code": "THB",
+        "country": "Thai Baht",
+        "flag": "assets/flags/Thailand.jpg"
+      },
+      {
+        "code": "TJS",
+        "country": "Tajikistani Somoni",
+        "flag": "assets/flags/Tajikistan.png"
+      },
+      {
+        "code": "TMT",
+        "country": "Turkmenistani Manat",
+        "flag": "assets/flags/Turkmenistan.png"
+      },
+      {
+        "code": "TND",
+        "country": "Tunisian Dinar",
+        "flag": "assets/flags/Tunisia.png"
+      },
+      {
+        "code": "TOP",
+        "country": "Tongan Pa'anga",
+        "flag": "assets/flags/Tonga.png"
+      },
+      {
+        "code": "TRY",
+        "country": "Turkish Lira",
+        "flag": "assets/flags/Turkey.jpg"
+      },
+      {
+        "code": "TTD",
+        "country": "Trinidad and Tobago Dollar",
+        "flag": "assets/flags/trinidad-and-tobago.png"
+      },
+      {
+        "code": "TWD",
+        "country": "New Taiwan Dollar",
+        "flag": "assets/flags/Taiwan.png"
+      },
+      {
+        "code": "TZS",
+        "country": "Tanzanian Shilling",
+        "flag": "assets/flags/Tanzania.png"
+      },
+      {
+        "code": "UAH",
+        "country": "Ukrainian Hryvnia",
+        "flag": "assets/flags/Ukraine.jpg"
+      },
+      {
+        "code": "UGX",
+        "country": "Ugandan Shilling",
+        "flag": "assets/flags/Uganda.png"
+      },
+      {
+        "code": "USD",
+        "country": "United States Dollar",
+        "flag": "assets/flags/united-states.png"
+      },
+      {
+        "code": "UYU",
+        "country": "Uruguayan Peso",
+        "flag": "assets/flags/Uruguay.png"
+      },
+      {
+        "code": "UZS",
+        "country": "Uzbekistan Som",
+        "flag": "assets/flags/Uzbekistan.png"
+      },
+      {
+        "code": "VEF",
+        "country": "Venezuelan Bolívar Fuerte",
+        "flag": "assets/flags/Venezuela.png"
+      },
+      {
+        "code": "VND",
+        "country": "Vietnamese Dong",
+        "flag": "assets/flags/Vietnams.png"
+      },
+      {
+        "code": "VUV",
+        "country": "Vanuatu Vatu",
+        "flag": "assets/flags/Vanuatu.png"
+      },
+      {
+        "code": "WST",
+        "country": "Samoan Tala",
+        "flag": "assets/flags/Samoa.jpg"
+      },
+      {
+        "code": "XAF",
+        "country": "CFA Franc BEAC",
+        "flag": "assets/flags/Cameroon.png"
+      },
+      {
+        "code": "XCD",
+        "country": "East Caribbean Dollar",
+        "flag": "assets/flags/Caribbean.png"
+      },
+      {
+        "code": "XOF",
+        "country": "CFA Franc BCEAO",
+        "flag": "assets/flags/Senegal.jpg"
+      },
+      {
+        "code": "XPF",
+        "country": "CFP Franc",
+        "flag": "assets/flags/french-polynesia.png"
+      },
+      {
+        "code": "YER",
+        "country": "Yemeni Rial",
+        "flag": "assets/flags/Yemen.png"
+      },
+      {
+        "code": "ZAR",
+        "country": "South African Rand",
+        "flag": "assets/flags/south-africa.png"
+      },
+      {
+        "code": "ZMW",
+        "country": "Zambian Kwacha",
+        "flag": "assets/flags/Zambia.png"
+      },
+      {
+        "code": "ZWL",
+        "country": "Zimbabwean Dollar",
+        "flag": "assets/flags/Zimbabwe.png"
+      }
+]
